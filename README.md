@@ -1,2 +1,2 @@
-# CSD-Period-3
+# Projects
 CSD-Period-3
